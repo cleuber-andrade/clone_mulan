@@ -240,3 +240,17 @@ header .logo img{
     filter: invert(1);
     max-width: 32px;
 }
+
+@media(max-width: 991px){
+    header{
+        padding: 20px 50px;
+        flex-direction: column;
+
+    }
+
+    navegation{
+        display: flex;
+        margin: 10px 0;
+        flex-wrap: wrap;
+    }
+}
