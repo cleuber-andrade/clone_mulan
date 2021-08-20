@@ -13,6 +13,7 @@ Praticar conhecimentos sobre HTML5, CSS3 e JavaScript
 
 -Explorar a utilização de interação da pagina com JS;
 -Aprimorar os conhecimentos em HTML e CSS;
+-Site Responsivo;
 
 ```
 ## :wrench: Ferramentas Utilizadas
